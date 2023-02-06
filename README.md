@@ -29,6 +29,8 @@ This is an Agricukture Farm Management System DBMS Mini Project Based Project an
 
 
 
+
+
 How to Run the Project
 1. Clone this repo
 2. Install Nodejs,MySQL or any IDE that supports MySQL
@@ -39,7 +41,9 @@ How to Run the Project
 6. Go to any Browser and use the fololowing url:
     * localhost:8081
 7. You will Get a Simple Frontend Part for Your Queries.
-8. List of all the Type of queries and their Code will be available in the Repo.
+8. There is an input tab.
+9. There is a Query output shown based on the Input of the End-user.
+10. Lists all the Type of queries and their Code will be available in the Repo.
 
 
 
