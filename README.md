@@ -9,7 +9,7 @@ Front-end part of queries is hosted on the webpage with interactive input and th
 Front end is developed using NodeJS , HTML ,CSS and JavaScript.
 
 
-This is an Agricukture Farm Management System DBMS Mini Project Based Project and Contains:
+This is an Agriculture Farm Management System DBMS Mini Project Based Project and Contains:
 1. Entity - Relation Diagram [E-R Diagram]
 2. Relational Model Diagram
 3. SQL Commands to Create the Database,Tables , ENtries and their Relatinos
