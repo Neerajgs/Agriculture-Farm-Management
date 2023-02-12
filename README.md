@@ -26,6 +26,7 @@ This is an Agriculture Farm Management System DBMS Mini Project Based Project an
    * Functiouns
    * Triggers
 5. Front end Development for any of the Queries 
+6. Input and Output Based Simple Front-End Development.
 
 
 
